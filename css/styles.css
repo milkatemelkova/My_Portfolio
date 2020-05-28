@@ -692,7 +692,8 @@ Projects
 }
 .project-footer a {
   text-transform: capitalize;
-  color: var(--clr-primary-5);
+  color: var(--clr-primary-2);
   transition: var(--transition);
   justify-self: end;
+  font-size: 1.2rem;
 }
