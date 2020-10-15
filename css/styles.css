@@ -253,6 +253,9 @@ Navbar
     justify-self: end;
   }
 }
+.text-lowercase {
+  text-transform: lowercase;
+}
 /* fixed navbar */
 .navbar-fixed {
   position: fixed;
